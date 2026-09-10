@@ -836,6 +836,44 @@ function computeAssetDepreciation(asset, asOfDate) {
   };
 }
 
+// Total akumulasi penyusutan seluruh aset tetap (semua status, sama seperti
+// kartu "Nilai Buku Saat Ini" di halaman Daftar Aset) per tanggal `asOfDate`.
+// Dipakai untuk menampilkan nilai buku di laporan Neraca tanpa membuat
+// jurnal baru — murni angka hasil hitung ulang saat laporan dibuka.
+async function computeTotalAccumulatedDepreciation(asOfDate, env) {
+  const result = await env.DB.prepare("SELECT * FROM fixed_assets").all();
+  let total = 0;
+  for (const asset of result.results) {
+    total = roundMoney(total + computeAssetDepreciation(asset, asOfDate).accumulated_depreciation);
+  }
+  return total;
+}
+
+// Menyisipkan/menyesuaikan baris akun "Akumulasi Penyusutan" pada hasil query
+// Neraca supaya totalnya mencerminkan nilai buku aset tetap saat ini, bukan
+// cuma saldo jurnal (yang selama ini tidak pernah diisi manual).
+function applyFixedAssetBookValue(rows, totalAccumulatedDepreciation) {
+  if (!totalAccumulatedDepreciation) return;
+
+  const accumDeprRow = rows.find(
+    (row) => row.account_type === "asset" && /penyusutan/i.test(row.account_name || "")
+  );
+
+  if (accumDeprRow) {
+    accumDeprRow.ending_balance = roundMoney(Number(accumDeprRow.ending_balance || 0) - totalAccumulatedDepreciation);
+  } else {
+    rows.push({
+      account_id: null,
+      account_code: "ACCUM_DEPRECIATION",
+      account_name: "Akumulasi Penyusutan (Nilai Buku Aset Tetap)",
+      account_type: "asset",
+      total_debit: 0,
+      total_credit: totalAccumulatedDepreciation,
+      ending_balance: roundMoney(-totalAccumulatedDepreciation)
+    });
+  }
+}
+
 function serializeFixedAsset(asset, asOfDate) {
   return {
     id: asset.id,
@@ -4309,6 +4347,9 @@ async function buildBalanceSheetReport(asOfDate, env) {
   )
     .bind(asOfDate)
     .first();
+
+  const totalAccumulatedDepreciation = await computeTotalAccumulatedDepreciation(asOfDate, env);
+  applyFixedAssetBookValue(rows.results, totalAccumulatedDepreciation);
 
   return splitBalanceRows(rows.results, asOfDate, Number(earnings?.current_period_earnings || 0));
 }
