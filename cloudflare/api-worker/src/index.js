@@ -836,40 +836,51 @@ function computeAssetDepreciation(asset, asOfDate) {
   };
 }
 
-// Total akumulasi penyusutan seluruh aset tetap (semua status, sama seperti
-// kartu "Nilai Buku Saat Ini" di halaman Daftar Aset) per tanggal `asOfDate`.
-// Dipakai untuk menampilkan nilai buku di laporan Neraca tanpa membuat
-// jurnal baru — murni angka hasil hitung ulang saat laporan dibuka.
-async function computeTotalAccumulatedDepreciation(asOfDate, env) {
+// Nilai buku seluruh aset tetap (semua status, sama seperti kartu "Nilai
+// Buku Saat Ini" di halaman Daftar Aset) per tanggal `asOfDate`, dikelompokkan
+// per akun COA-nya. Dipakai untuk menampilkan nilai buku di laporan Neraca
+// tanpa membuat jurnal baru — murni angka hasil hitung ulang saat laporan
+// dibuka. Ditotal per account_id (bukan cuma total tunggal) karena pembelian
+// aset tetap selama ini tidak pernah dijurnal, jadi akun-akun asetnya (mis.
+// "Peralatan Komputer & IT") belum tercatat sama sekali di ledger.
+async function getFixedAssetBookValueByAccount(asOfDate, env) {
   const result = await env.DB.prepare("SELECT * FROM fixed_assets").all();
-  let total = 0;
+  const bookValueByAccount = new Map();
+
   for (const asset of result.results) {
-    total = roundMoney(total + computeAssetDepreciation(asset, asOfDate).accumulated_depreciation);
+    const { book_value } = computeAssetDepreciation(asset, asOfDate);
+    const previous = bookValueByAccount.get(asset.account_id) || 0;
+    bookValueByAccount.set(asset.account_id, roundMoney(previous + book_value));
   }
-  return total;
+
+  return bookValueByAccount;
 }
 
-// Menyisipkan/menyesuaikan baris akun "Akumulasi Penyusutan" pada hasil query
-// Neraca supaya totalnya mencerminkan nilai buku aset tetap saat ini, bukan
-// cuma saldo jurnal (yang selama ini tidak pernah diisi manual).
-function applyFixedAssetBookValue(rows, totalAccumulatedDepreciation) {
-  if (!totalAccumulatedDepreciation) return;
+// Menambahkan nilai buku per akun ke hasil query Neraca. Kalau akunnya sudah
+// ada di hasil query (harusnya selalu ada, karena LEFT JOIN mencakup semua
+// akun asset), nilai buku ditambahkan ke saldo ledger yang sudah ada (0 kalau
+// belum pernah dijurnal). Fallback menambah baris baru hanya untuk jaga-jaga.
+function applyFixedAssetBookValue(rows, bookValueByAccount) {
+  if (!bookValueByAccount.size) return;
 
-  const accumDeprRow = rows.find(
-    (row) => row.account_type === "asset" && /penyusutan/i.test(row.account_name || "")
-  );
+  const remaining = new Map(bookValueByAccount);
 
-  if (accumDeprRow) {
-    accumDeprRow.ending_balance = roundMoney(Number(accumDeprRow.ending_balance || 0) - totalAccumulatedDepreciation);
-  } else {
+  for (const row of rows) {
+    if (remaining.has(row.account_id)) {
+      row.ending_balance = roundMoney(Number(row.ending_balance || 0) + remaining.get(row.account_id));
+      remaining.delete(row.account_id);
+    }
+  }
+
+  for (const [accountId, bookValue] of remaining) {
     rows.push({
-      account_id: null,
-      account_code: "ACCUM_DEPRECIATION",
-      account_name: "Akumulasi Penyusutan (Nilai Buku Aset Tetap)",
+      account_id: accountId,
+      account_code: "-",
+      account_name: "Aset Tetap (dari Daftar Aset)",
       account_type: "asset",
       total_debit: 0,
-      total_credit: totalAccumulatedDepreciation,
-      ending_balance: roundMoney(-totalAccumulatedDepreciation)
+      total_credit: 0,
+      ending_balance: bookValue
     });
   }
 }
@@ -4348,8 +4359,8 @@ async function buildBalanceSheetReport(asOfDate, env) {
     .bind(asOfDate)
     .first();
 
-  const totalAccumulatedDepreciation = await computeTotalAccumulatedDepreciation(asOfDate, env);
-  applyFixedAssetBookValue(rows.results, totalAccumulatedDepreciation);
+  const bookValueByAccount = await getFixedAssetBookValueByAccount(asOfDate, env);
+  applyFixedAssetBookValue(rows.results, bookValueByAccount);
 
   return splitBalanceRows(rows.results, asOfDate, Number(earnings?.current_period_earnings || 0));
 }
