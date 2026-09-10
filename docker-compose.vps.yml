@@ -1,0 +1,49 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: gudara-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: gudara_finance
+      POSTGRES_USER: gudara_app
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U gudara_app -d gudara_finance"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - gudara_network
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gudara-backend
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      DATABASE_URL: postgresql://gudara_app:${POSTGRES_PASSWORD}@postgres:5432/gudara_finance
+      JWT_SECRET: ${JWT_SECRET}
+      JWT_EXPIRES_IN: ${JWT_EXPIRES_IN:-8h}
+      CORS_ORIGIN: ${CORS_ORIGIN}
+      SEED_ADMIN_NAME: ${SEED_ADMIN_NAME:-Gudara Admin}
+      SEED_ADMIN_EMAIL: ${SEED_ADMIN_EMAIL:-admin@gudara.id}
+      SEED_ADMIN_PASSWORD: ${SEED_ADMIN_PASSWORD}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:3000:3000"
+    networks:
+      - gudara_network
+
+volumes:
+  postgres_data:
+
+networks:
+  gudara_network:
+    driver: bridge

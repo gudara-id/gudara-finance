@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Env files
+.env
+.env.local
+.env.production
+**/.env
+**/.env.local
+**/.env.production
+!.env.example
+!**/.env*.example
+
+# Build output
+dist/
+**/dist/
+.wrangler/
+**/.wrangler/
+
+# Logs
+*.log
+npm-debug.log*
+coverage/
+
+# Sensitive data dumps / reports (real company financial data)
+backup-sebelum-reset*.sql
+import_journal.sql
+import-*-result.json
+import-*-skipped.json
+REPORT_GUDARA*.xlsx
+REPORT\ GUDARA*.xlsx
+*.xlsx
+seeds/admin-user.sql
+shift-tanggal-plus1.lock
+
+# Misc
+.DS_Store

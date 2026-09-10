@@ -1,0 +1,4064 @@
+[
+  {
+    "row": 5,
+    "status": "ok",
+    "description": "Saldo Awal Kas (Marketplace)",
+    "amount": 2494875
+  },
+  {
+    "row": 6,
+    "status": "ok",
+    "description": "Bunga Bank (Admin Bank)",
+    "amount": 10000
+  },
+  {
+    "row": 7,
+    "status": "ok",
+    "description": "Pelunasan PO FIF Group (PO)",
+    "amount": 4000000
+  },
+  {
+    "row": 8,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 6000000
+  },
+  {
+    "row": 9,
+    "status": "ok",
+    "description": "Penjualan konsi ciwidey (Konsinyasi)",
+    "amount": 115000
+  },
+  {
+    "row": 10,
+    "status": "ok",
+    "description": "Top Up Gojek ongkir  (Ongkir)",
+    "amount": 36000
+  },
+  {
+    "row": 11,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5900000
+  },
+  {
+    "row": 12,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2100000
+  },
+  {
+    "row": 13,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 8000000
+  },
+  {
+    "row": 14,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 500000
+  },
+  {
+    "row": 15,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 16,
+    "status": "ok",
+    "description": "Pembelian Casan Iphone (Ops Lainnya)",
+    "amount": 126220
+  },
+  {
+    "row": 17,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 57000
+  },
+  {
+    "row": 18,
+    "status": "ok",
+    "description": "Pembayaran Jersey Persib Ciwidey 4pcs (Reseller)",
+    "amount": 280000
+  },
+  {
+    "row": 19,
+    "status": "ok",
+    "description": "Pembayaran Jersey Persib Ciwidey 1pcs (Reseller)",
+    "amount": 70000
+  },
+  {
+    "row": 20,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 8000
+  },
+  {
+    "row": 21,
+    "status": "ok",
+    "description": "Pelunasan PO LPK Livco (PO)",
+    "amount": 1020000
+  },
+  {
+    "row": 22,
+    "status": "ok",
+    "description": "Kekurangan Pelunasan PO LPK Livco (PO)",
+    "amount": 30000
+  },
+  {
+    "row": 23,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 24,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5000000
+  },
+  {
+    "row": 25,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 900000
+  },
+  {
+    "row": 26,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 2200000
+  },
+  {
+    "row": 27,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 625000
+  },
+  {
+    "row": 28,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 12500000
+  },
+  {
+    "row": 29,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 1900000
+  },
+  {
+    "row": 30,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5500000
+  },
+  {
+    "row": 31,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 7500000
+  },
+  {
+    "row": 32,
+    "status": "ok",
+    "description": "Pembayaran Label Size Gudara (Ops Lainnya)",
+    "amount": 100000
+  },
+  {
+    "row": 33,
+    "status": "ok",
+    "description": "Konsumsi (Ops Lainnya)",
+    "amount": 33000
+  },
+  {
+    "row": 34,
+    "status": "ok",
+    "description": "Penjualan konsi ciwidey (Konsinyasi)",
+    "amount": 130000
+  },
+  {
+    "row": 35,
+    "status": "ok",
+    "description": "Pelunasan Kemeja Morecom (PO)",
+    "amount": 250000
+  },
+  {
+    "row": 36,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 800000
+  },
+  {
+    "row": 37,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 3200000
+  },
+  {
+    "row": 38,
+    "status": "ok",
+    "description": "Dp PO O2SN (PO)",
+    "amount": 1500000
+  },
+  {
+    "row": 39,
+    "status": "ok",
+    "description": "Pembelian PolyHitamZB25x35 (Kemasan)",
+    "amount": 654000
+  },
+  {
+    "row": 40,
+    "status": "ok",
+    "description": "Pelunasan Kemeja Morecom (PO)",
+    "amount": 240000
+  },
+  {
+    "row": 41,
+    "status": "ok",
+    "description": "Pembelian Kertas Thermal (Kemasan)",
+    "amount": 645000
+  },
+  {
+    "row": 42,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 2800000
+  },
+  {
+    "row": 43,
+    "status": "ok",
+    "description": "Pembelian Penitik dan Tali Hang Tag (Kemasan)",
+    "amount": 78000
+  },
+  {
+    "row": 44,
+    "status": "ok",
+    "description": "Pendaftaran Merek Dagang (Ops Lainnya)",
+    "amount": 500000
+  },
+  {
+    "row": 45,
+    "status": "ok",
+    "description": "Indra Nugraha (Reseller)",
+    "amount": 150000
+  },
+  {
+    "row": 46,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 47,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 900000
+  },
+  {
+    "row": 48,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 4000000
+  },
+  {
+    "row": 49,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 1200000
+  },
+  {
+    "row": 50,
+    "status": "ok",
+    "description": "Pembelian 2pcs Offline (PO)",
+    "amount": 125000
+  },
+  {
+    "row": 51,
+    "status": "ok",
+    "description": "Pembelian DTF (Ops Lainnya)",
+    "amount": 50000
+  },
+  {
+    "row": 52,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 26000
+  },
+  {
+    "row": 53,
+    "status": "ok",
+    "description": "Top Up Iklan Meta (Iklan)",
+    "amount": 100000
+  },
+  {
+    "row": 54,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 500000
+  },
+  {
+    "row": 55,
+    "status": "ok",
+    "description": "Custom DTF Gudara 12pcs (PO)",
+    "amount": 848500
+  },
+  {
+    "row": 56,
+    "status": "ok",
+    "description": "Iis Sugiarti (PO)",
+    "amount": 320000
+  },
+  {
+    "row": 57,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 7500000
+  },
+  {
+    "row": 58,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 500000
+  },
+  {
+    "row": 59,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 7747800
+  },
+  {
+    "row": 60,
+    "status": "ok",
+    "description": "Pelunasan PO BIFOENB (PO)",
+    "amount": 780000
+  },
+  {
+    "row": 61,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5700000
+  },
+  {
+    "row": 62,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 1500000
+  },
+  {
+    "row": 63,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 5645500
+  },
+  {
+    "row": 64,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 640000
+  },
+  {
+    "row": 65,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 100000
+  },
+  {
+    "row": 66,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 3690000
+  },
+  {
+    "row": 67,
+    "status": "ok",
+    "description": "Pembayaran Reseller Gudara (Marketplace)",
+    "amount": 270000
+  },
+  {
+    "row": 68,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 11500000
+  },
+  {
+    "row": 69,
+    "status": "ok",
+    "description": "Pembayaran Woven, Hang Tag (Ops Lainnya)",
+    "amount": 1560000
+  },
+  {
+    "row": 70,
+    "status": "ok",
+    "description": "DP PO Albatros (PO)",
+    "amount": 4555000
+  },
+  {
+    "row": 71,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 14700000
+  },
+  {
+    "row": 72,
+    "status": "ok",
+    "description": "DP PO MBGT (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 73,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 98000
+  },
+  {
+    "row": 74,
+    "status": "ok",
+    "description": "Tf Kelebihan Dp MBGT (Ongkir)",
+    "amount": 100000
+  },
+  {
+    "row": 75,
+    "status": "ok",
+    "description": "Top Up Meta Ads (Iklan)",
+    "amount": 100000
+  },
+  {
+    "row": 76,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 11000000
+  },
+  {
+    "row": 77,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 10000000
+  },
+  {
+    "row": 78,
+    "status": "ok",
+    "description": "Pembelian Logo Custom (Ops Lainnya)",
+    "amount": 1698000
+  },
+  {
+    "row": 79,
+    "status": "ok",
+    "description": "Pembelian Embos Offline 1pcs (Reseller)",
+    "amount": 50000
+  },
+  {
+    "row": 80,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4500000
+  },
+  {
+    "row": 81,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5000000
+  },
+  {
+    "row": 82,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 83,
+    "status": "ok",
+    "description": "DP PO Mediafit (PO)",
+    "amount": 1325000
+  },
+  {
+    "row": 84,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 6500000
+  },
+  {
+    "row": 85,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2400000
+  },
+  {
+    "row": 86,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 21000000
+  },
+  {
+    "row": 87,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 575000
+  },
+  {
+    "row": 88,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 5400000
+  },
+  {
+    "row": 89,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 3500000
+  },
+  {
+    "row": 90,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 13400000
+  },
+  {
+    "row": 91,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 15000000
+  },
+  {
+    "row": 92,
+    "status": "ok",
+    "description": "Pembelian Size Gudara (Ops Lainnya)",
+    "amount": 100000
+  },
+  {
+    "row": 93,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 6900000
+  },
+  {
+    "row": 94,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 95,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 500000
+  },
+  {
+    "row": 96,
+    "status": "ok",
+    "description": "Reller Gudara (Awan Media) (Reseller)",
+    "amount": 85000
+  },
+  {
+    "row": 97,
+    "status": "ok",
+    "description": "Reseller World Apparel 1pcs (Reseller)",
+    "amount": 45000
+  },
+  {
+    "row": 98,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 3500000
+  },
+  {
+    "row": 99,
+    "status": "ok",
+    "description": "Pelunasan PO Albatros + Ongkir (PO)",
+    "amount": 4787500
+  },
+  {
+    "row": 100,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 74000
+  },
+  {
+    "row": 101,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 215000
+  },
+  {
+    "row": 102,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 4000000
+  },
+  {
+    "row": 103,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4300000
+  },
+  {
+    "row": 104,
+    "status": "ok",
+    "description": "Tf Ongkos kirim manual (Ongkir)",
+    "amount": 21000
+  },
+  {
+    "row": 105,
+    "status": "ok",
+    "description": "Reller Gudara (Awan Media) (Reseller)",
+    "amount": 85000
+  },
+  {
+    "row": 106,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 400000
+  },
+  {
+    "row": 107,
+    "status": "ok",
+    "description": "DP BPS CIMERAK (PO)",
+    "amount": 5000000
+  },
+  {
+    "row": 108,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 3000000
+  },
+  {
+    "row": 109,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 5000000
+  },
+  {
+    "row": 110,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 111,
+    "status": "ok",
+    "description": "Tf Ongkos kirim manual (Ongkir)",
+    "amount": 31000
+  },
+  {
+    "row": 112,
+    "status": "ok",
+    "description": "Pelunasan PO Waterfit (PO)",
+    "amount": 1429500
+  },
+  {
+    "row": 113,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4000000
+  },
+  {
+    "row": 114,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 10000000
+  },
+  {
+    "row": 115,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 720000
+  },
+  {
+    "row": 116,
+    "status": "ok",
+    "description": "Tf Ongkos kirim manual (Ongkir)",
+    "amount": 83000
+  },
+  {
+    "row": 117,
+    "status": "ok",
+    "description": "Tf Ongkos kirim manual (Ongkir)",
+    "amount": 191000
+  },
+  {
+    "row": 118,
+    "status": "ok",
+    "description": "Pelunasan PO 02SN (PO)",
+    "amount": 1668000
+  },
+  {
+    "row": 119,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 9500000
+  },
+  {
+    "row": 120,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (PO)",
+    "amount": 5500000
+  },
+  {
+    "row": 121,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (PO)",
+    "amount": 7700000
+  },
+  {
+    "row": 122,
+    "status": "ok",
+    "description": "Pembayaran Spinjam (Spinjam Keluar)",
+    "amount": 4241667
+  },
+  {
+    "row": 123,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 1900000
+  },
+  {
+    "row": 124,
+    "status": "ok",
+    "description": "Pembelian Capcut Pro (Ops Lainnya)",
+    "amount": 41800
+  },
+  {
+    "row": 125,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 3500000
+  },
+  {
+    "row": 126,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 4000000
+  },
+  {
+    "row": 127,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 700000
+  },
+  {
+    "row": 128,
+    "status": "ok",
+    "description": "Pembayarab Order Gudara (PO)",
+    "amount": 500000
+  },
+  {
+    "row": 129,
+    "status": "ok",
+    "description": "Bunga Bank (Bunga Rekening)",
+    "amount": 98
+  },
+  {
+    "row": 130,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4000000
+  },
+  {
+    "row": 131,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 132,
+    "status": "ok",
+    "description": "Gaji Karyawan (Gaji)",
+    "amount": 1947500
+  },
+  {
+    "row": 133,
+    "status": "ok",
+    "description": "Pembayaran Order Gudara (PO)",
+    "amount": 9500000
+  },
+  {
+    "row": 134,
+    "status": "ok",
+    "description": "Custom DTF (PO)",
+    "amount": 275000
+  },
+  {
+    "row": 135,
+    "status": "ok",
+    "description": "Pembayaran DTF Gudara (Ops Lainnya)",
+    "amount": 75000
+  },
+  {
+    "row": 136,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Marketplace)",
+    "amount": 42430400
+  },
+  {
+    "row": 137,
+    "status": "ok",
+    "description": "Beban Listrik dan Tempat (Operasional Tempat)",
+    "amount": 1850000
+  },
+  {
+    "row": 138,
+    "status": "ok",
+    "description": "Bonus Tim (Bonus Tim)",
+    "amount": 465000
+  },
+  {
+    "row": 139,
+    "status": "ok",
+    "description": "Gaji Karyawan (Chandra) (Gaji)",
+    "amount": 1000000
+  },
+  {
+    "row": 140,
+    "status": "ok",
+    "description": "Gaji Karyawan (Tebi) (Gaji)",
+    "amount": 1500000
+  },
+  {
+    "row": 141,
+    "status": "ok",
+    "description": "Gaji Karyawan (Wily) (Gaji)",
+    "amount": 3000000
+  },
+  {
+    "row": 142,
+    "status": "ok",
+    "description": "Gaji Karyawan (Pak Irin) (Gaji)",
+    "amount": 3500000
+  },
+  {
+    "row": 143,
+    "status": "ok",
+    "description": "Pembayaran MBGT  (PO)",
+    "amount": 1500000
+  },
+  {
+    "row": 144,
+    "status": "ok",
+    "description": "Pembayaran Stiker Gudara (Kemasan)",
+    "amount": 165000
+  },
+  {
+    "row": 145,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 10000
+  },
+  {
+    "row": 146,
+    "status": "ok",
+    "description": "DP PO Mediafit (PO)",
+    "amount": 2600000
+  },
+  {
+    "row": 147,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 3900000
+  },
+  {
+    "row": 148,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 2500000
+  },
+  {
+    "row": 149,
+    "status": "ok",
+    "description": "Pembayaran INV/2026/00386 (PO)",
+    "amount": 2600000
+  },
+  {
+    "row": 150,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 1200000
+  },
+  {
+    "row": 151,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 2600000
+  },
+  {
+    "row": 152,
+    "status": "ok",
+    "description": "Pembayaran Label Size Gudara (Ops Lainnya)",
+    "amount": 300000
+  },
+  {
+    "row": 153,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 154,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 625000
+  },
+  {
+    "row": 155,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 10000000
+  },
+  {
+    "row": 156,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 16650000
+  },
+  {
+    "row": 157,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5000000
+  },
+  {
+    "row": 158,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 159,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 160,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4500000
+  },
+  {
+    "row": 161,
+    "status": "ok",
+    "description": "Penarikan dana Shopee (Marketplace)",
+    "amount": 3500000
+  },
+  {
+    "row": 162,
+    "status": "ok",
+    "description": "Penjualan Offline Embos 1pcs (PO)",
+    "amount": 55000
+  },
+  {
+    "row": 163,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6300000
+  },
+  {
+    "row": 164,
+    "status": "ok",
+    "description": "Pembelian Storage Penyimpanan Barang (Ops Lainnya)",
+    "amount": 83430
+  },
+  {
+    "row": 165,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 12093168
+  },
+  {
+    "row": 166,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2354835
+  },
+  {
+    "row": 167,
+    "status": "ok",
+    "description": "Bonus Tim Juni (Bonus Tim)",
+    "amount": 465000
+  },
+  {
+    "row": 168,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 4000000
+  },
+  {
+    "row": 169,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 29213000
+  },
+  {
+    "row": 170,
+    "status": "ok",
+    "description": "Order 01-07-26 INV/2026/00381 (PO)",
+    "amount": 4869500
+  },
+  {
+    "row": 171,
+    "status": "ok",
+    "description": "Order 02-07-26 INV/2026/00387 (PO)",
+    "amount": 4146500
+  },
+  {
+    "row": 172,
+    "status": "ok",
+    "description": "Order 03-07-26 INV/2026/00396 (PO)",
+    "amount": 3746500
+  },
+  {
+    "row": 173,
+    "status": "ok",
+    "description": "Order 04-07-26 INV/2026/00397 (PO)",
+    "amount": 4030500
+  },
+  {
+    "row": 174,
+    "status": "ok",
+    "description": "Order 06-07-26 INV/2026/00399 (PO)",
+    "amount": 8974000
+  },
+  {
+    "row": 175,
+    "status": "ok",
+    "description": "Order 07-07-26 INV/2026/00401 (PO)",
+    "amount": 3446000
+  },
+  {
+    "row": 176,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 400000
+  },
+  {
+    "row": 177,
+    "status": "ok",
+    "description": "DP UPTD PPA (PO)",
+    "amount": 750000
+  },
+  {
+    "row": 178,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3200000
+  },
+  {
+    "row": 179,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1500000
+  },
+  {
+    "row": 180,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 7000000
+  },
+  {
+    "row": 181,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5136500
+  },
+  {
+    "row": 182,
+    "status": "ok",
+    "description": "Order 08-07-26 INV/2026/00403 (PO)",
+    "amount": 5136500
+  },
+  {
+    "row": 183,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2605000
+  },
+  {
+    "row": 184,
+    "status": "ok",
+    "description": "Pelunasan BPS CIMERAK (PO)",
+    "amount": 3900000
+  },
+  {
+    "row": 185,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3727500
+  },
+  {
+    "row": 186,
+    "status": "ok",
+    "description": "Order 09-07-26 INV/2026/00404 (PO)",
+    "amount": 3727500
+  },
+  {
+    "row": 187,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2200000
+  },
+  {
+    "row": 188,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 800000
+  },
+  {
+    "row": 189,
+    "status": "ok",
+    "description": "Pembelian Flag Label Gudara  (Kemasan)",
+    "amount": 720000
+  },
+  {
+    "row": 190,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 191,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 700000
+  },
+  {
+    "row": 192,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 193,
+    "status": "ok",
+    "description": "Penarikan dana Tiktok (Marketplace)",
+    "amount": 5600000
+  },
+  {
+    "row": 194,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1200000
+  },
+  {
+    "row": 195,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 14050000
+  },
+  {
+    "row": 196,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 690000
+  },
+  {
+    "row": 197,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 14000
+  },
+  {
+    "row": 198,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 8500000
+  },
+  {
+    "row": 199,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 200,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 201,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 54500
+  },
+  {
+    "row": 202,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 9643500
+  },
+  {
+    "row": 203,
+    "status": "ok",
+    "description": "Order 10-07-26 INV/2026/00412 (PO)",
+    "amount": 3902000
+  },
+  {
+    "row": 204,
+    "status": "ok",
+    "description": "Order 11-07-26 INV/2026/00413 (PO)",
+    "amount": 3247000
+  },
+  {
+    "row": 205,
+    "status": "ok",
+    "description": "Order 12-07-26 INV/2026/00414 (PO)",
+    "amount": 2494500
+  },
+  {
+    "row": 206,
+    "status": "ok",
+    "description": "Pelunasan PO WATERFIT-2 (PO)",
+    "amount": 2751000
+  },
+  {
+    "row": 207,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1440000
+  },
+  {
+    "row": 208,
+    "status": "ok",
+    "description": "Waterfit-2 INV/2026/00386 (PO)",
+    "amount": 1440000
+  },
+  {
+    "row": 209,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 192000
+  },
+  {
+    "row": 210,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1800000
+  },
+  {
+    "row": 211,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3500000
+  },
+  {
+    "row": 212,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5300000
+  },
+  {
+    "row": 213,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2690000
+  },
+  {
+    "row": 214,
+    "status": "ok",
+    "description": "Order 13-07-26 INV/2026/00419 (PO)",
+    "amount": 2690000
+  },
+  {
+    "row": 215,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 600000
+  },
+  {
+    "row": 216,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 217,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4782500
+  },
+  {
+    "row": 218,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4800000
+  },
+  {
+    "row": 219,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2300000
+  },
+  {
+    "row": 220,
+    "status": "ok",
+    "description": "Pelunasan PO Badminton  (PO)",
+    "amount": 968000
+  },
+  {
+    "row": 221,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 300000
+  },
+  {
+    "row": 222,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 60000
+  },
+  {
+    "row": 223,
+    "status": "ok",
+    "description": "Top Up Iklan Meta (Iklan)",
+    "amount": 100000
+  },
+  {
+    "row": 224,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 225,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1100000
+  },
+  {
+    "row": 226,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3200000
+  },
+  {
+    "row": 227,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 433200
+  },
+  {
+    "row": 228,
+    "status": "ok",
+    "description": "Pembayaran Kemerdekaan Indonesia (PO)",
+    "amount": 1026000
+  },
+  {
+    "row": 229,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5000000
+  },
+  {
+    "row": 230,
+    "status": "ok",
+    "description": "DP PO OK JAPAN-2 (PO)",
+    "amount": 520000
+  },
+  {
+    "row": 231,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3775500
+  },
+  {
+    "row": 232,
+    "status": "ok",
+    "description": "Order 14-07-26 INV/2026/00424 (PO)",
+    "amount": 3775500
+  },
+  {
+    "row": 233,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4116500
+  },
+  {
+    "row": 234,
+    "status": "ok",
+    "description": "Order 15-07-26 INV/2026/00425 (PO)",
+    "amount": 4116500
+  },
+  {
+    "row": 235,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3000000
+  },
+  {
+    "row": 236,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2512000
+  },
+  {
+    "row": 237,
+    "status": "ok",
+    "description": "Order 16-07-26 INV/2026/00426 (PO)",
+    "amount": 2512000
+  },
+  {
+    "row": 238,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2700000
+  },
+  {
+    "row": 239,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2000000
+  },
+  {
+    "row": 240,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 690000
+  },
+  {
+    "row": 241,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 13100000
+  },
+  {
+    "row": 242,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5900000
+  },
+  {
+    "row": 243,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2200000
+  },
+  {
+    "row": 244,
+    "status": "ok",
+    "description": "Pembayaran Langganan Big Seller (Ops Lainnya)",
+    "amount": 500000
+  },
+  {
+    "row": 245,
+    "status": "ok",
+    "description": "Pemabayaran Stok Jaket (Stok)",
+    "amount": 642500
+  },
+  {
+    "row": 246,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 247,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 10297000
+  },
+  {
+    "row": 248,
+    "status": "ok",
+    "description": "Order 17-07-26 INV/2026/00434 (PO)",
+    "amount": 4234500
+  },
+  {
+    "row": 249,
+    "status": "ok",
+    "description": "Order 18-07-26 INV/2026/00435 (PO)",
+    "amount": 3117500
+  },
+  {
+    "row": 250,
+    "status": "ok",
+    "description": "Order 19-07-26 INV/2026/00436 (PO)",
+    "amount": 2945000
+  },
+  {
+    "row": 251,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 252,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 300000
+  },
+  {
+    "row": 253,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 299280
+  },
+  {
+    "row": 254,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 66000
+  },
+  {
+    "row": 255,
+    "status": "ok",
+    "description": "Pembayaran 1pcs Reseller (Reseller)",
+    "amount": 50000
+  },
+  {
+    "row": 256,
+    "status": "ok",
+    "description": "DP PO Stelan Anak Embos (PO)",
+    "amount": 350000
+  },
+  {
+    "row": 257,
+    "status": "ok",
+    "description": "DP PO Ricky Pangandaran (PO)",
+    "amount": 2660000
+  },
+  {
+    "row": 258,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4000000
+  },
+  {
+    "row": 259,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1200000
+  },
+  {
+    "row": 260,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 7000000
+  },
+  {
+    "row": 261,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 262,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 168000
+  },
+  {
+    "row": 263,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 150000
+  },
+  {
+    "row": 264,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 197500
+  },
+  {
+    "row": 265,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3793000
+  },
+  {
+    "row": 266,
+    "status": "ok",
+    "description": "Order 20-07-26 INV/2026/00444 (PO)",
+    "amount": 3793000
+  },
+  {
+    "row": 267,
+    "status": "ok",
+    "description": "Konsumsi Tamu (Ops Lainnya)",
+    "amount": 81000
+  },
+  {
+    "row": 268,
+    "status": "ok",
+    "description": "Name Tag dan Double Tape (Ops Lainnya)",
+    "amount": 102500
+  },
+  {
+    "row": 269,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 17000
+  },
+  {
+    "row": 270,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 9000000
+  },
+  {
+    "row": 271,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4000000
+  },
+  {
+    "row": 272,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3000000
+  },
+  {
+    "row": 273,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 7030000
+  },
+  {
+    "row": 274,
+    "status": "ok",
+    "description": "Name Tag (Ops Lainnya)",
+    "amount": 90000
+  },
+  {
+    "row": 275,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 600000
+  },
+  {
+    "row": 276,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3180000
+  },
+  {
+    "row": 277,
+    "status": "ok",
+    "description": "DP PO Oka Japan-2 (PO)",
+    "amount": 520000
+  },
+  {
+    "row": 278,
+    "status": "ok",
+    "description": "DP PO Desa Kertaraharja (PO)",
+    "amount": 2660000
+  },
+  {
+    "row": 279,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 600000
+  },
+  {
+    "row": 280,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3638500
+  },
+  {
+    "row": 281,
+    "status": "ok",
+    "description": "Order 21-07-26 INV/2026/00452 (PO)",
+    "amount": 3638500
+  },
+  {
+    "row": 282,
+    "status": "ok",
+    "description": "Pelunasan PO Stelan Anak Embos (PO)",
+    "amount": 350000
+  },
+  {
+    "row": 283,
+    "status": "ok",
+    "description": "Pembayaran PO Stelan Anak Embos (PO)",
+    "amount": 350000
+  },
+  {
+    "row": 284,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4814500
+  },
+  {
+    "row": 285,
+    "status": "ok",
+    "description": "Order 22-07-26 INV/2026/00454 (PO)",
+    "amount": 4814500
+  },
+  {
+    "row": 286,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 140000
+  },
+  {
+    "row": 287,
+    "status": "ok",
+    "description": "Pelunasan PO Stelan Anak Embos (PO)",
+    "amount": 140000
+  },
+  {
+    "row": 288,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3700000
+  },
+  {
+    "row": 289,
+    "status": "ok",
+    "description": "Pembayaran Hang Tag Gudara (Ops Lainnya)",
+    "amount": 1200000
+  },
+  {
+    "row": 290,
+    "status": "ok",
+    "description": "DP PO Mediafit-3 (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 291,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3200000
+  },
+  {
+    "row": 292,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 800000
+  },
+  {
+    "row": 293,
+    "status": "ok",
+    "description": "Top Up Iklan Meta (Iklan)",
+    "amount": 200000
+  },
+  {
+    "row": 294,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2200000
+  },
+  {
+    "row": 295,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5000000
+  },
+  {
+    "row": 296,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6685500
+  },
+  {
+    "row": 297,
+    "status": "ok",
+    "description": "Order 23-07-26 INV/2026/00462 (PO)",
+    "amount": 3685500
+  },
+  {
+    "row": 298,
+    "status": "ok",
+    "description": "Pembayaran PO Waterfit-3 INV/2026/00464 (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 299,
+    "status": "ok",
+    "description": "DP PO KATAR (A Regi) (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 300,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3000000
+  },
+  {
+    "row": 301,
+    "status": "ok",
+    "description": "Pembayaran PO Katar INV/2026/00468 (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 302,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 300000
+  },
+  {
+    "row": 303,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 16800000
+  },
+  {
+    "row": 304,
+    "status": "ok",
+    "description": "Host Live (Host Live)",
+    "amount": 690000
+  },
+  {
+    "row": 305,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 950000
+  },
+  {
+    "row": 306,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 7700000
+  },
+  {
+    "row": 307,
+    "status": "ok",
+    "description": "Top Up SMM (Iklan)",
+    "amount": 51100
+  },
+  {
+    "row": 308,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 116000
+  },
+  {
+    "row": 309,
+    "status": "ok",
+    "description": "Pembayaran 2pcs Offline Running (PO)",
+    "amount": 120000
+  },
+  {
+    "row": 310,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3000000
+  },
+  {
+    "row": 311,
+    "status": "ok",
+    "description": "Penjualan Offline Embos 2pcs (PO)",
+    "amount": 100000
+  },
+  {
+    "row": 312,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 600000
+  },
+  {
+    "row": 313,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3027000
+  },
+  {
+    "row": 314,
+    "status": "ok",
+    "description": "Order 24-07-26 INV/2026/00469 (PO)",
+    "amount": 3027000
+  },
+  {
+    "row": 315,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 7439000
+  },
+  {
+    "row": 316,
+    "status": "ok",
+    "description": "Order 25-07-26 INV/2026/00470 (PO)",
+    "amount": 3294500
+  },
+  {
+    "row": 317,
+    "status": "ok",
+    "description": "Order 26-07-26 INV/2026/00471 (PO)",
+    "amount": 4144500
+  },
+  {
+    "row": 318,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 600000
+  },
+  {
+    "row": 319,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4000000
+  },
+  {
+    "row": 320,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 600000
+  },
+  {
+    "row": 321,
+    "status": "ok",
+    "description": "Pembayaran Spinjam (Spinjam Keluar)",
+    "amount": 4791655
+  },
+  {
+    "row": 322,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 10583500
+  },
+  {
+    "row": 323,
+    "status": "ok",
+    "description": "Order 27-07-26 INV/2026/00481 (PO)",
+    "amount": 4926000
+  },
+  {
+    "row": 324,
+    "status": "ok",
+    "description": "Order 28-07-26 INV/2026/00483 (PO)",
+    "amount": 5657500
+  },
+  {
+    "row": 325,
+    "status": "ok",
+    "description": "DP PO MD MUSICCALLY (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 326,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 327,
+    "status": "ok",
+    "description": "DP PO MD MUSICCALLY (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 328,
+    "status": "ok",
+    "description": "Pelunasan PO OK JAPAN-2 (PO)",
+    "amount": 548000
+  },
+  {
+    "row": 329,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 6000000
+  },
+  {
+    "row": 330,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 32000
+  },
+  {
+    "row": 331,
+    "status": "ok",
+    "description": "TF Kelebihan Ongkir (Ongkir)",
+    "amount": 16000
+  },
+  {
+    "row": 332,
+    "status": "ok",
+    "description": "Top Up Iklan Meta (Iklan)",
+    "amount": 200000
+  },
+  {
+    "row": 333,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5285000
+  },
+  {
+    "row": 334,
+    "status": "ok",
+    "description": "Order 29-07-26 INV/2026/00487 (PO)",
+    "amount": 5285000
+  },
+  {
+    "row": 335,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4933500
+  },
+  {
+    "row": 336,
+    "status": "ok",
+    "description": "Order 30-07-26 INV/2026/00490 (PO)",
+    "amount": 4933500
+  },
+  {
+    "row": 337,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2522400
+  },
+  {
+    "row": 338,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2800000
+  },
+  {
+    "row": 339,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1700000
+  },
+  {
+    "row": 340,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 320000
+  },
+  {
+    "row": 341,
+    "status": "ok",
+    "description": "Pembayaran PO Oka Japan-2 (PO)",
+    "amount": 320000
+  },
+  {
+    "row": 342,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 343,
+    "status": "ok",
+    "description": "DP PO LEAPMOTOR (PO)",
+    "amount": 3000000
+  },
+  {
+    "row": 344,
+    "status": "ok",
+    "description": "Pembayaran Logo 3D  (Ops Lainnya)",
+    "amount": 45500
+  },
+  {
+    "row": 345,
+    "status": "ok",
+    "description": "Return Barang Gudara (Retur Produk)",
+    "amount": 10682242
+  },
+  {
+    "row": 346,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 6600000
+  },
+  {
+    "row": 347,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 600000
+  },
+  {
+    "row": 348,
+    "status": "ok",
+    "description": "Sewa Kantor  (Operasional Tempat)",
+    "amount": 1200000
+  },
+  {
+    "row": 349,
+    "status": "ok",
+    "description": "Internet (Operasional Tempat)",
+    "amount": 350000
+  },
+  {
+    "row": 350,
+    "status": "ok",
+    "description": "Listrik (Operasional Tempat)",
+    "amount": 300000
+  },
+  {
+    "row": 351,
+    "status": "ok",
+    "description": "Salary Pak Irin (Gaji)",
+    "amount": 4500000
+  },
+  {
+    "row": 352,
+    "status": "ok",
+    "description": "Salary Wily (Gaji)",
+    "amount": 3500000
+  },
+  {
+    "row": 353,
+    "status": "ok",
+    "description": "Salary Tebi (50%) (Gaji)",
+    "amount": 1500000
+  },
+  {
+    "row": 354,
+    "status": "ok",
+    "description": "Salary Cendel (50%) (Gaji)",
+    "amount": 1000000
+  },
+  {
+    "row": 355,
+    "status": "ok",
+    "description": "Salary Lufti  (Gaji)",
+    "amount": 1877500
+  },
+  {
+    "row": 356,
+    "status": "ok",
+    "description": "Salary Nurul (Gaji)",
+    "amount": 325000
+  },
+  {
+    "row": 357,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 18947828
+  },
+  {
+    "row": 358,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 9300000
+  },
+  {
+    "row": 359,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1100000
+  },
+  {
+    "row": 360,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 9359700
+  },
+  {
+    "row": 361,
+    "status": "ok",
+    "description": "Plastik Polymailer 1 ball (Kemasan)",
+    "amount": 752500
+  },
+  {
+    "row": 362,
+    "status": "ok",
+    "description": "Penjualan Offline Gudara  (Reseller)",
+    "amount": 90000
+  },
+  {
+    "row": 363,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 4184500
+  },
+  {
+    "row": 364,
+    "status": "ok",
+    "description": "Order 31-07-26 INV/2026/00497 (PO)",
+    "amount": 4184500
+  },
+  {
+    "row": 365,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 850000
+  },
+  {
+    "row": 366,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4150000
+  },
+  {
+    "row": 367,
+    "status": "ok",
+    "description": "DP PO Arena Outbound (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 368,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 333000
+  },
+  {
+    "row": 369,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 370,
+    "status": "ok",
+    "description": "Pembelian Pulsa Nomor Gudara (Ops Lainnya)",
+    "amount": 52400
+  },
+  {
+    "row": 371,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 5100000
+  },
+  {
+    "row": 372,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 8392500
+  },
+  {
+    "row": 373,
+    "status": "ok",
+    "description": "Order 01-08-26 INV/2026/00501 (PO)",
+    "amount": 3777500
+  },
+  {
+    "row": 374,
+    "status": "ok",
+    "description": "Order 02-08-26 INV/2026/00507 (PO)",
+    "amount": 4615000
+  },
+  {
+    "row": 375,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3800000
+  },
+  {
+    "row": 376,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1700000
+  },
+  {
+    "row": 377,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 378,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 277500
+  },
+  {
+    "row": 379,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 5745500
+  },
+  {
+    "row": 380,
+    "status": "ok",
+    "description": "Order 03-08-26 INV/2026/00510 (PO)",
+    "amount": 5745500
+  },
+  {
+    "row": 381,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 6305500
+  },
+  {
+    "row": 382,
+    "status": "ok",
+    "description": "Order 04-08-26 INV/2026/00511 (PO)",
+    "amount": 6305500
+  },
+  {
+    "row": 383,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 5000000
+  },
+  {
+    "row": 384,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 385,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 277500
+  },
+  {
+    "row": 386,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4900000
+  },
+  {
+    "row": 387,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1000000
+  },
+  {
+    "row": 388,
+    "status": "ok",
+    "description": "Top Up Buzzer Gudara (Ops Lainnya)",
+    "amount": 100000
+  },
+  {
+    "row": 389,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 5000000
+  },
+  {
+    "row": 390,
+    "status": "ok",
+    "description": "DP Logo  (Ops Lainnya)",
+    "amount": 278000
+  },
+  {
+    "row": 391,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 100000
+  },
+  {
+    "row": 392,
+    "status": "ok",
+    "description": "DP Gudara Custom Embos 12pcs (PO)",
+    "amount": 600000
+  },
+  {
+    "row": 393,
+    "status": "ok",
+    "description": "Pelunasa PO DESA KERTAHARJA (PO)",
+    "amount": 2660000
+  },
+  {
+    "row": 394,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 277500
+  },
+  {
+    "row": 395,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 396,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4900000
+  },
+  {
+    "row": 397,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 370000
+  },
+  {
+    "row": 398,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 11011500
+  },
+  {
+    "row": 399,
+    "status": "ok",
+    "description": "Order 05-08-26 INV/2026/00513 (PO)",
+    "amount": 4970000
+  },
+  {
+    "row": 400,
+    "status": "ok",
+    "description": "PO Desa Kertaraharja INV/2026/00443 (PO)",
+    "amount": 1920000
+  },
+  {
+    "row": 401,
+    "status": "ok",
+    "description": "PO Prabu TFC 2026 INV/2026/00472 (PO)",
+    "amount": 240000
+  },
+  {
+    "row": 402,
+    "status": "ok",
+    "description": "Order 06-08-26 INV/2026/00514 (PO)",
+    "amount": 3881500
+  },
+  {
+    "row": 403,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 6340000
+  },
+  {
+    "row": 404,
+    "status": "ok",
+    "description": "PO Waterfit-3 INV/2026/00464 (PO)",
+    "amount": 1310000
+  },
+  {
+    "row": 405,
+    "status": "ok",
+    "description": "PO MBGT Tambahan INV/2026/00467 (PO)",
+    "amount": 70000
+  },
+  {
+    "row": 406,
+    "status": "ok",
+    "description": "PO Katar INV/2026/00468 (PO)",
+    "amount": 2040000
+  },
+  {
+    "row": 407,
+    "status": "ok",
+    "description": "PO MD Musically INV/2026/00486 (PO)",
+    "amount": 680000
+  },
+  {
+    "row": 408,
+    "status": "ok",
+    "description": "PO Arena Outbond INV/2026/00502 (PO)",
+    "amount": 2240000
+  },
+  {
+    "row": 409,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 277500
+  },
+  {
+    "row": 410,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 411,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5500000
+  },
+  {
+    "row": 412,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 2200000
+  },
+  {
+    "row": 413,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 10982500
+  },
+  {
+    "row": 414,
+    "status": "ok",
+    "description": "Label Size Gudara (Ops Lainnya)",
+    "amount": 400000
+  },
+  {
+    "row": 415,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 416,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 10000000
+  },
+  {
+    "row": 417,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 12182500
+  },
+  {
+    "row": 418,
+    "status": "ok",
+    "description": "Order 07-08-26 INV/2026/00518 (PO)",
+    "amount": 6494000
+  },
+  {
+    "row": 419,
+    "status": "ok",
+    "description": "Order 08-08-26 INV/2026/00519 (PO)",
+    "amount": 5688500
+  },
+  {
+    "row": 420,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 4244000
+  },
+  {
+    "row": 421,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 7947000
+  },
+  {
+    "row": 422,
+    "status": "ok",
+    "description": "Pelunasan PO Rogo Wijoyo Agung (PO)",
+    "amount": 567000
+  },
+  {
+    "row": 423,
+    "status": "ok",
+    "description": "Pembayaran PO Logistik Polres Bandung (PO)",
+    "amount": 1500000
+  },
+  {
+    "row": 424,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 6500000
+  },
+  {
+    "row": 425,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 3900000
+  },
+  {
+    "row": 426,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 427,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4944000
+  },
+  {
+    "row": 428,
+    "status": "ok",
+    "description": "Order 10-08-26 INV/2026/00529 (PO)",
+    "amount": 4944000
+  },
+  {
+    "row": 429,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 3850000
+  },
+  {
+    "row": 430,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 129600
+  },
+  {
+    "row": 431,
+    "status": "ok",
+    "description": "Tf Kembalian Ongkir Gudara (Ongkir)",
+    "amount": 58900
+  },
+  {
+    "row": 432,
+    "status": "ok",
+    "description": "Return Barang Gudara (Pemindahan Rekening)",
+    "amount": 10497000
+  },
+  {
+    "row": 433,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 19534389
+  },
+  {
+    "row": 434,
+    "status": "ok",
+    "description": "Take Profit (null)",
+    "amount": 19534389
+  },
+  {
+    "row": 435,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 436,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5100000
+  },
+  {
+    "row": 437,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 800000
+  },
+  {
+    "row": 438,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 5334000
+  },
+  {
+    "row": 439,
+    "status": "ok",
+    "description": "Pembelian X Banner Gudara (Ops Lainnya)",
+    "amount": 160000
+  },
+  {
+    "row": 440,
+    "status": "ok",
+    "description": "Pelunasan PO Budy Gudara (PO)",
+    "amount": 3370000
+  },
+  {
+    "row": 441,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 442,
+    "status": "ok",
+    "description": "Pelunasan PO Water Fit - 4 (PO)",
+    "amount": 2450000
+  },
+  {
+    "row": 443,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3800000
+  },
+  {
+    "row": 444,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 650000
+  },
+  {
+    "row": 445,
+    "status": "ok",
+    "description": "Pemindahan Rekening (Pemindahan Rekening)",
+    "amount": 2947500
+  },
+  {
+    "row": 446,
+    "status": "ok",
+    "description": "Order 12-08-26 INV/2026/00541 (PO)",
+    "amount": 2947500
+  },
+  {
+    "row": 447,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4053500
+  },
+  {
+    "row": 448,
+    "status": "ok",
+    "description": "Order 11-08-26 INV/2026/00536 (PO)",
+    "amount": 4053500
+  },
+  {
+    "row": 449,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4700000
+  },
+  {
+    "row": 450,
+    "status": "ok",
+    "description": "Kertas Thermal 100x150 (10pcs) (Kemasan)",
+    "amount": 430000
+  },
+  {
+    "row": 451,
+    "status": "ok",
+    "description": "Tf ongkos kirim manual (Ongkir)",
+    "amount": 187000
+  },
+  {
+    "row": 452,
+    "status": "ok",
+    "description": "Pelunasan PO Katar (PO)",
+    "amount": 3120000
+  },
+  {
+    "row": 453,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 203000
+  },
+  {
+    "row": 454,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 50000
+  },
+  {
+    "row": 455,
+    "status": "ok",
+    "description": "Ganti Ongkir Gudara (PO)",
+    "amount": 187000
+  },
+  {
+    "row": 456,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 457,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5000000
+  },
+  {
+    "row": 458,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2900000
+  },
+  {
+    "row": 459,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1000000
+  },
+  {
+    "row": 460,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6062500
+  },
+  {
+    "row": 461,
+    "status": "ok",
+    "description": "Order 13-08-26 INV/2026/00547 (PO)",
+    "amount": 6062500
+  },
+  {
+    "row": 462,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5155000
+  },
+  {
+    "row": 463,
+    "status": "ok",
+    "description": "Sewa Gimbal HP  (Ops Lainnya)",
+    "amount": 172500
+  },
+  {
+    "row": 464,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 465,
+    "status": "ok",
+    "description": "DP PO Custom Clinic Amata (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 466,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 467,
+    "status": "ok",
+    "description": "Sewa Kamera Cembung (Ops Lainnya)",
+    "amount": 70000
+  },
+  {
+    "row": 468,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5450000
+  },
+  {
+    "row": 469,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 745000
+  },
+  {
+    "row": 470,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 14828000
+  },
+  {
+    "row": 471,
+    "status": "ok",
+    "description": "Pembayaran DTF Gudara (Ops Lainnya)",
+    "amount": 50000
+  },
+  {
+    "row": 472,
+    "status": "ok",
+    "description": "Pelunasan PO Custom Clinic Amata (PO)",
+    "amount": 440000
+  },
+  {
+    "row": 473,
+    "status": "ok",
+    "description": "Ongkos Pengiriman Kaca Cembung (Ops Lainnya)",
+    "amount": 15000
+  },
+  {
+    "row": 474,
+    "status": "ok",
+    "description": "Pembayaran Penjualan Offline 3pcs (PO)",
+    "amount": 120000
+  },
+  {
+    "row": 475,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 111000
+  },
+  {
+    "row": 476,
+    "status": "ok",
+    "description": "Penjualan Offline (PO)",
+    "amount": 115000
+  },
+  {
+    "row": 477,
+    "status": "ok",
+    "description": "Tarik Tunai (Hadiah Swarun) (Ops Lainnya)",
+    "amount": 250000
+  },
+  {
+    "row": 478,
+    "status": "ok",
+    "description": "Gojek Pengembalian Kaca Cembung (Ops Lainnya)",
+    "amount": 31000
+  },
+  {
+    "row": 479,
+    "status": "ok",
+    "description": "Pembayaran Cash Penjualan Offline (PO)",
+    "amount": 555000
+  },
+  {
+    "row": 480,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 305000
+  },
+  {
+    "row": 481,
+    "status": "ok",
+    "description": "Konsumsi Team Gudara (Ops Lainnya)",
+    "amount": 150000
+  },
+  {
+    "row": 482,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 100000
+  },
+  {
+    "row": 483,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5638000
+  },
+  {
+    "row": 484,
+    "status": "ok",
+    "description": "Order 14-08-26 INV/2026/00548 (PO)",
+    "amount": 2813500
+  },
+  {
+    "row": 485,
+    "status": "ok",
+    "description": "Order 15-08-26 INV/2026/00549 (PO)",
+    "amount": 2824500
+  },
+  {
+    "row": 486,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 20300000
+  },
+  {
+    "row": 487,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 4300000
+  },
+  {
+    "row": 488,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 489,
+    "status": "ok",
+    "description": "Penarikan Dana Shopeepay (PO)",
+    "amount": 718000
+  },
+  {
+    "row": 490,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 700000
+  },
+  {
+    "row": 491,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 120000
+  },
+  {
+    "row": 492,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 720000
+  },
+  {
+    "row": 493,
+    "status": "ok",
+    "description": "PO Amata Klinik INV/2026/00550 (PO)",
+    "amount": 720000
+  },
+  {
+    "row": 494,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2800000
+  },
+  {
+    "row": 495,
+    "status": "ok",
+    "description": "PO Swarun INV/2026/00551 (PO)",
+    "amount": 2800000
+  },
+  {
+    "row": 496,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3100000
+  },
+  {
+    "row": 497,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3800000
+  },
+  {
+    "row": 498,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 140000
+  },
+  {
+    "row": 499,
+    "status": "ok",
+    "description": "PO MBGT Tambahan-2 INV/2026/00545 (PO)",
+    "amount": 140000
+  },
+  {
+    "row": 500,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1750000
+  },
+  {
+    "row": 501,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3400000
+  },
+  {
+    "row": 502,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 503,
+    "status": "ok",
+    "description": "Pembayaran Langganan Bigseller (Ops Lainnya)",
+    "amount": 495000
+  },
+  {
+    "row": 504,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 563000
+  },
+  {
+    "row": 505,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1783000
+  },
+  {
+    "row": 506,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2340000
+  },
+  {
+    "row": 507,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 300000
+  },
+  {
+    "row": 508,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2707000
+  },
+  {
+    "row": 509,
+    "status": "ok",
+    "description": "Penjualan Offline 2pcs (PO)",
+    "amount": 110000
+  },
+  {
+    "row": 510,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 511,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2600000
+  },
+  {
+    "row": 512,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1900000
+  },
+  {
+    "row": 513,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2500000
+  },
+  {
+    "row": 514,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2200000
+  },
+  {
+    "row": 515,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 175000
+  },
+  {
+    "row": 516,
+    "status": "ok",
+    "description": "DP PO Waterfit-4 (PO)",
+    "amount": 600000
+  },
+  {
+    "row": 517,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6330000
+  },
+  {
+    "row": 518,
+    "status": "ok",
+    "description": "Order 18-08-26 INV/2026/00556 (PO)",
+    "amount": 6330000
+  },
+  {
+    "row": 519,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3815000
+  },
+  {
+    "row": 520,
+    "status": "ok",
+    "description": "Order 19-08-26 INV/2026/00560 (PO)",
+    "amount": 3815000
+  },
+  {
+    "row": 521,
+    "status": "ok",
+    "description": "DP PO TFC 2026-2 (PO)",
+    "amount": 1000000
+  },
+  {
+    "row": 522,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1000000
+  },
+  {
+    "row": 523,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 800000
+  },
+  {
+    "row": 524,
+    "status": "ok",
+    "description": "PO Mediafit Orange INV/2026/00562 (PO)",
+    "amount": 800000
+  },
+  {
+    "row": 525,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2500000
+  },
+  {
+    "row": 526,
+    "status": "ok",
+    "description": "PO Prabu TFC 2026-2 INV/2026/00559 (PO)",
+    "amount": 2500000
+  },
+  {
+    "row": 527,
+    "status": "ok",
+    "description": "Ongkos Pengiriman Two Triple O (Ongkir)",
+    "amount": 45000
+  },
+  {
+    "row": 528,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 900000
+  },
+  {
+    "row": 529,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 1700000
+  },
+  {
+    "row": 530,
+    "status": "ok",
+    "description": "Pembelian Totebag (Ops Lainnya)",
+    "amount": 15000
+  },
+  {
+    "row": 531,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 532,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 533,
+    "status": "ok",
+    "description": "DP sewa Kamera  (Ops Lainnya)",
+    "amount": 105000
+  },
+  {
+    "row": 534,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1370720
+  },
+  {
+    "row": 535,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1710000
+  },
+  {
+    "row": 536,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 185840
+  },
+  {
+    "row": 537,
+    "status": "ok",
+    "description": "Pelunasan Sewa Kamera (Ops Lainnya)",
+    "amount": 105000
+  },
+  {
+    "row": 538,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 300000
+  },
+  {
+    "row": 539,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4100000
+  },
+  {
+    "row": 540,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1100000
+  },
+  {
+    "row": 541,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 542,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3960000
+  },
+  {
+    "row": 543,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 11900000
+  },
+  {
+    "row": 544,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1825500
+  },
+  {
+    "row": 545,
+    "status": "ok",
+    "description": "Order 21-08-26 INV/2026/00577 (PO)",
+    "amount": 1825500
+  },
+  {
+    "row": 546,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2809000
+  },
+  {
+    "row": 547,
+    "status": "ok",
+    "description": "Order 20-08-26 INV/2026/00564 (PO)",
+    "amount": 2809000
+  },
+  {
+    "row": 548,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1707000
+  },
+  {
+    "row": 549,
+    "status": "ok",
+    "description": "Order 22-08-26 INV/2026/00579 (PO)",
+    "amount": 1707000
+  },
+  {
+    "row": 550,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 7500000
+  },
+  {
+    "row": 551,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1700000
+  },
+  {
+    "row": 552,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 553,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 762000
+  },
+  {
+    "row": 554,
+    "status": "ok",
+    "description": "PO Gudara X Two Triple O INV/2026/00578 (PO)",
+    "amount": 762000
+  },
+  {
+    "row": 555,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 479800
+  },
+  {
+    "row": 556,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 557,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 558,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 6150000
+  },
+  {
+    "row": 559,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1300000
+  },
+  {
+    "row": 560,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 561,
+    "status": "ok",
+    "description": "Pelunasana PO Arena Outbound (PO)",
+    "amount": 2400000
+  },
+  {
+    "row": 562,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 10255000
+  },
+  {
+    "row": 563,
+    "status": "ok",
+    "description": "Pencetakan Flayer Gudara (Ops Lainnya)",
+    "amount": 448000
+  },
+  {
+    "row": 564,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 565,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2800000
+  },
+  {
+    "row": 566,
+    "status": "ok",
+    "description": "Pelunasan PO PRABU TFC 2026 (PO)",
+    "amount": 1635000
+  },
+  {
+    "row": 567,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6665000
+  },
+  {
+    "row": 568,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 11274000
+  },
+  {
+    "row": 569,
+    "status": "ok",
+    "description": "Order 24-08-26 INV/2026/00586 (PO)",
+    "amount": 4817500
+  },
+  {
+    "row": 570,
+    "status": "ok",
+    "description": "Order 25-08-26 INV/2026/00587 (PO)",
+    "amount": 2835500
+  },
+  {
+    "row": 571,
+    "status": "ok",
+    "description": "Order 26-08-26 INV/2026/00588 (PO)",
+    "amount": 3621000
+  },
+  {
+    "row": 572,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 150000
+  },
+  {
+    "row": 573,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 574,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2400000
+  },
+  {
+    "row": 575,
+    "status": "ok",
+    "description": "Penjualan Offline 2pcs (Reseller)",
+    "amount": 100000
+  },
+  {
+    "row": 576,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4280500
+  },
+  {
+    "row": 577,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 105000
+  },
+  {
+    "row": 578,
+    "status": "ok",
+    "description": "Pembayaran Tambahan Amata Clinic 7pcs (PO)",
+    "amount": 455000
+  },
+  {
+    "row": 579,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 250000
+  },
+  {
+    "row": 580,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2382000
+  },
+  {
+    "row": 581,
+    "status": "ok",
+    "description": "Order 27-08-26 INV/2026/00592 (PO)",
+    "amount": 2382000
+  },
+  {
+    "row": 582,
+    "status": "ok",
+    "description": "Pelunasan PO Water Fit - 4 (PO)",
+    "amount": 420000
+  },
+  {
+    "row": 583,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1000000
+  },
+  {
+    "row": 584,
+    "status": "ok",
+    "description": "Pembelian Plastik Belanja (Ops Lainnya)",
+    "amount": 68000
+  },
+  {
+    "row": 585,
+    "status": "ok",
+    "description": "Ongkos pengiriman Plastik (Ops Lainnya)",
+    "amount": 15500
+  },
+  {
+    "row": 586,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 587,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1900000
+  },
+  {
+    "row": 588,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3300000
+  },
+  {
+    "row": 589,
+    "status": "ok",
+    "description": "Pembayaran Spinjam  (Spinjam Keluar)",
+    "amount": 4791655
+  },
+  {
+    "row": 590,
+    "status": "ok",
+    "description": "Penjualan Offline Bazar (PO)",
+    "amount": 675000
+  },
+  {
+    "row": 591,
+    "status": "ok",
+    "description": "Operasional (makan, kebersihan, bensin) (Ops Lainnya)",
+    "amount": 60000
+  },
+  {
+    "row": 592,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 115000
+  },
+  {
+    "row": 593,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 594,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 595,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 596,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 5700000
+  },
+  {
+    "row": 597,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1800000
+  },
+  {
+    "row": 598,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1271000
+  },
+  {
+    "row": 599,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5162500
+  },
+  {
+    "row": 600,
+    "status": "ok",
+    "description": "Order 28-08-26 INV/2026/00598 (PO)",
+    "amount": 2395000
+  },
+  {
+    "row": 601,
+    "status": "ok",
+    "description": "Order 29-08-26 INV/2026/00600 (PO)",
+    "amount": 2767500
+  },
+  {
+    "row": 602,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 100000
+  },
+  {
+    "row": 603,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 70000
+  },
+  {
+    "row": 604,
+    "status": "ok",
+    "description": "Bunga Bank (Bunga Rekening)",
+    "amount": 168
+  },
+  {
+    "row": 605,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 606,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 607,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2300000
+  },
+  {
+    "row": 608,
+    "status": "ok",
+    "description": "Golden Swim (PO)",
+    "amount": 740000
+  },
+  {
+    "row": 609,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 500000
+  },
+  {
+    "row": 610,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1502000
+  },
+  {
+    "row": 611,
+    "status": "ok",
+    "description": "PO Amata Clinic INV/2026/00594 (PO)",
+    "amount": 1100000
+  },
+  {
+    "row": 612,
+    "status": "ok",
+    "description": "Penjualan Bazar INV/2026/00601 (PO)",
+    "amount": 402000
+  },
+  {
+    "row": 613,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 790000
+  },
+  {
+    "row": 614,
+    "status": "ok",
+    "description": "DP PO Sahabat Tuli Pasuruan (PO)",
+    "amount": 455000
+  },
+  {
+    "row": 615,
+    "status": "ok",
+    "description": "Salary Nurul (Gaji)",
+    "amount": 1622500
+  },
+  {
+    "row": 616,
+    "status": "ok",
+    "description": "Salary Lutfi (Gaji)",
+    "amount": 1862500
+  },
+  {
+    "row": 617,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 7185500
+  },
+  {
+    "row": 618,
+    "status": "ok",
+    "description": "Order 31-08-26 INV/2026/00609 (PO)",
+    "amount": 6455500
+  },
+  {
+    "row": 619,
+    "status": "ok",
+    "description": "PO Pesari INV/2026/00596 (PO)",
+    "amount": 70000
+  },
+  {
+    "row": 620,
+    "status": "ok",
+    "description": "PO Kinar Trans INV/2026/00605 (PO)",
+    "amount": 70000
+  },
+  {
+    "row": 621,
+    "status": "ok",
+    "description": "PO Golden Swim INV/2026/00606 (PO)",
+    "amount": 590000
+  },
+  {
+    "row": 622,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 6964053
+  },
+  {
+    "row": 623,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 12350000
+  },
+  {
+    "row": 624,
+    "status": "ok",
+    "description": "Sewa Kantor (Operasional Tempat)",
+    "amount": 1200000
+  },
+  {
+    "row": 625,
+    "status": "ok",
+    "description": "Internet (Operasional Tempat)",
+    "amount": 350000
+  },
+  {
+    "row": 626,
+    "status": "ok",
+    "description": "Listrik (Operasional Tempat)",
+    "amount": 300000
+  },
+  {
+    "row": 627,
+    "status": "ok",
+    "description": "Salary Pak Irin (Gaji)",
+    "amount": 4500000
+  },
+  {
+    "row": 628,
+    "status": "ok",
+    "description": "Salary Wily (Gaji)",
+    "amount": 3500000
+  },
+  {
+    "row": 629,
+    "status": "ok",
+    "description": "Salary Tebi (Gaji)",
+    "amount": 1500000
+  },
+  {
+    "row": 630,
+    "status": "ok",
+    "description": "Salary Cendel (Gaji)",
+    "amount": 1000000
+  },
+  {
+    "row": 631,
+    "status": "ok",
+    "description": "Return Barang gudara (Retur Produk)",
+    "amount": 5992500
+  },
+  {
+    "row": 632,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5992500
+  },
+  {
+    "row": 633,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 14506243
+  },
+  {
+    "row": 634,
+    "status": "ok",
+    "description": "Take Profit (null)",
+    "amount": 14506243
+  },
+  {
+    "row": 635,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2500000
+  },
+  {
+    "row": 636,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 400000
+  },
+  {
+    "row": 637,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 638,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 639,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 4272500
+  },
+  {
+    "row": 640,
+    "status": "ok",
+    "description": "Order 01-09-26 INV/2026/00610 (PO)",
+    "amount": 4272500
+  },
+  {
+    "row": 641,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2500000
+  },
+  {
+    "row": 642,
+    "status": "ok",
+    "description": "DP PO Kluweh (PO)",
+    "amount": 910000
+  },
+  {
+    "row": 643,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 644,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 645,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2950000
+  },
+  {
+    "row": 646,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 600000
+  },
+  {
+    "row": 647,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3877000
+  },
+  {
+    "row": 648,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3517000
+  },
+  {
+    "row": 649,
+    "status": "ok",
+    "description": "Order 02-09-26 INV/2026/00613 (PO)",
+    "amount": 3517000
+  },
+  {
+    "row": 650,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 2700000
+  },
+  {
+    "row": 651,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 652,
+    "status": "ok",
+    "description": "Top Up Iklan Shopee (Iklan)",
+    "amount": 112000
+  },
+  {
+    "row": 653,
+    "status": "ok",
+    "description": "Pelunasan PO Golden Swim (PO)",
+    "amount": 772000
+  },
+  {
+    "row": 654,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2960000
+  },
+  {
+    "row": 655,
+    "status": "ok",
+    "description": "Order 03-09-26 INV/2026/00365 (PO)",
+    "amount": 2960000
+  },
+  {
+    "row": 656,
+    "status": "ok",
+    "description": "Pelunasan PO Sahabat Tuli (PO)",
+    "amount": 508000
+  },
+  {
+    "row": 657,
+    "status": "ok",
+    "description": "Ongkos Kirim Manual (Ongkir)",
+    "amount": 32000
+  },
+  {
+    "row": 658,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 247000
+  },
+  {
+    "row": 659,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 1822500
+  },
+  {
+    "row": 660,
+    "status": "ok",
+    "description": "Order 04-09-26 INV/2026/00366 (PO)",
+    "amount": 1822500
+  },
+  {
+    "row": 661,
+    "status": "ok",
+    "description": "Admin Bank (Admin Bank)",
+    "amount": 10000
+  },
+  {
+    "row": 662,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 3500000
+  },
+  {
+    "row": 663,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1000000
+  },
+  {
+    "row": 664,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 600000
+  },
+  {
+    "row": 665,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 200000
+  },
+  {
+    "row": 666,
+    "status": "ok",
+    "description": "Ongkos Kirim Manual (Ongkir)",
+    "amount": 66000
+  },
+  {
+    "row": 667,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 8000000
+  },
+  {
+    "row": 668,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1300000
+  },
+  {
+    "row": 669,
+    "status": "ok",
+    "description": "DP PO Baseball 2000 (PO)",
+    "amount": 1350000
+  },
+  {
+    "row": 670,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 671,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 5357000
+  },
+  {
+    "row": 672,
+    "status": "ok",
+    "description": "Penjualan Konsi Ciwidey (Konsinyasi)",
+    "amount": 260000
+  },
+  {
+    "row": 673,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 630000
+  },
+  {
+    "row": 674,
+    "status": "ok",
+    "description": "Penarikan Dana Tiktok (Marketplace)",
+    "amount": 4500000
+  },
+  {
+    "row": 675,
+    "status": "ok",
+    "description": "Top Up Iklan Tiktok (Iklan)",
+    "amount": 222000
+  },
+  {
+    "row": 676,
+    "status": "ok",
+    "description": "Penarikan Dana Shopee (Marketplace)",
+    "amount": 1100000
+  },
+  {
+    "row": 677,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 2940000
+  },
+  {
+    "row": 678,
+    "status": "ok",
+    "description": "Order 05-09-26 INV/2026/00369 (PO)",
+    "amount": 1060000
+  },
+  {
+    "row": 679,
+    "status": "ok",
+    "description": "Order 07-09-26 INV/2026/00370 (PO)",
+    "amount": 1645000
+  },
+  {
+    "row": 680,
+    "status": "ok",
+    "description": "Setoran Kongsi Ciwidey 07-09 INV/2026/00374 (PO)",
+    "amount": 235000
+  },
+  {
+    "row": 681,
+    "status": "ok",
+    "description": "Pemindahan Dana Rekening (Pemindahan Rekening)",
+    "amount": 3150000
+  }
+]

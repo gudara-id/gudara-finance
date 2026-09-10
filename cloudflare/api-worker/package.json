@@ -1,0 +1,22 @@
+{
+  "name": "gudara-finance-api-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "d1:migrate:local": "wrangler d1 migrations apply gudara-finance-db --local",
+    "d1:migrate:remote": "wrangler d1 migrations apply gudara-finance-db --remote",
+    "d1:seed:local": "wrangler d1 execute gudara-finance-db --local --file ./seeds/chart-of-accounts.sql",
+    "d1:seed:remote": "wrangler d1 execute gudara-finance-db --remote --file ./seeds/chart-of-accounts.sql",
+    "make-admin-sql": "node scripts/make-admin-sql.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "xlsx": "^0.18.5"
+  }
+}

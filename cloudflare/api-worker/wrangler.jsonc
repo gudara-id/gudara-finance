@@ -1,0 +1,27 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "gudara-finance-api",
+	"main": "src/index.js",
+	"compatibility_date": "2026-08-13",
+	"observability": {
+		"enabled": true
+	},
+	"vars": {
+		"CORS_ORIGIN": "https://app.gudara.id,https://gudara-finance.gudaraaa-id.workers.dev",
+		"JWT_EXPIRES_IN": "8h"
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "gudara-finance-db",
+			"database_id": "00795a06-ac2d-4186-aea0-ac9134475b57",
+			"migrations_dir": "./migrations"
+		}
+	],
+	"routes": [
+		{
+			"pattern": "api.gudara.id",
+			"custom_domain": true
+		}
+	]
+}
